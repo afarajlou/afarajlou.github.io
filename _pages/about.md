@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-**I am an incoming Assistant Professor at Rutgers University Computer Science, starting in Fall 2024.** 
+**A recent graduate with a master's degree in Computer Architecture from Amirkabir University of Technology (Hardware engineer)** 
 
-I obtained my Ph.D. from the University of California Santa Barbara, where I worked with Professor William Wang. My research focuses on natural language processing, with an emphasis on Responsible AI. I work on problems relating to fairness, trustworthiness, and safety. I have spent summers as a research intern at AWS AI, Meta, and Pinterest. I am a 2022 EECS Rising Star, a recipient of the Amazon Alexa AI Fellowship for Responsible AI, and have previously received the Regents and Holbrook Fellowships at my university.
+I am a recent graduate with a master's degree in Computer Architecture from Amirkabir University of Technology.
+During my studies, I gained valuable experience in designing and implementing parallel algorithms on FPGA platforms using tools like Xilinx Vivado, HLS, and PYNQ. I have a particular interest in the design of FPGA accelerators for AI applications.
+I am eager to contribute my insights and skills to the advancement of hardware solutions for accelerating AI algorithms.
