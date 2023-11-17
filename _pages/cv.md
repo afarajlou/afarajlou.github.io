@@ -10,33 +10,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computer Science, University of California, Santa Barbara, 2018-Present
-* M.S. in Computer Science, University of California, Santa Barbara, 2018
-* B.S. in Computer Science, University of California, Santa Barbara, 2017
+* M.S. in Computer Engineering, Amirkabir University of Technology, Tehran, 2020-Present
+* B.S. in Computer Engineering, Shahid Rajayiee University , Tehran, 2015
 
 Work experience
 ======
 
-* University of California, Santa Barbara: 2018-Present
+* Amirkabir University of Technology, Tehran: 2020-Present
   * Graduate Student Researcher
-  * Advisor: William Wang
+  * Advisor: Dr.Morteza Saheb Zamani
 
-* AWS: 2022
-  * Applied Scientist Intern (Comprehend Team)
-  * Mentors: Neha Anna John and Ling Liu
-  * Manager: Vittorio Castelli
 
-* Facebook: 2021
-  * Facebook AI Applied Research Intern (AI Integrity Team)
-  * Mentor: Yi-Chia Wang
+* Amirkabir University of Technology, Tehran: 2020-Present
+  * Lecturer at Logic Lab
+  * Advisor: Dr.Morteza Saheb Zamani, Dr. Mehdi Sedighi
+
+
+* Amirkabir University of Technology, Tehran: 2020-Present
+  * Teacher Assistant in Reconfigurable Computing
+  * Advisor: Dr.Morteza Saheb Zamani
+
+
+* Amirkabir University of Technology, Tehran: 2020-Present
+  * Teacher Assistant in Artificial Intelligence
+  * Advisor: Dr.Morteza Saheb Zamani
  
-* Pinterest: 2020
-  * Pinterest Labs Research Intern (PhD, Machine Learning)
-  * Mentor: Jacob Gao
-  * Manager: Longbin Chen
-
-* Akamai Technologies: 2017
-  * Security Engineer Intern
-  * Mentor: Richard Lin
-  
-
+    
+* Amirkabir University of Technology, Tehran: 2020-Present
+  * Teacher Assistant in Low Power Design
+  * Advisor: Dr.Mahmoud Momtazpour
