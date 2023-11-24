@@ -7,12 +7,13 @@ main:
   - title: "Teaching"
     url: /teaching/      
 
-    
-  - title: "Experience"
-    url: /experience/
-    
+
   - title: "CV"
-    url: /files/Farajlou_CV.pdf
+    url: /files/Farajlou_CV.pdf  
+  #- title: "Experience"
+  #  url: /experience/
+    
+
   
     
  
