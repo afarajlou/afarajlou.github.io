@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+ # - title: "Publications"
+ #  url: /publications/
   
 
   - title: "Teaching"
@@ -10,8 +10,10 @@ main:
 
   - title: "CV"
     url: /files/Farajlou_CV.pdf  
-  #- title: "Experience"
-  #  url: /experience/
+
+    
+  - title: "Experience"
+    url: /experience/
     
 
   
